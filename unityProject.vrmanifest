@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.starwarscontrols.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Stephen\\2019Projects\\StarWarsControls\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "StarWarsControls [Testing]"
+        }
+      }
+    }
+  ]
+}
